@@ -4,8 +4,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_tren/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GabrielTren1998)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltren&show_icons=true&theme=dracula)
-
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieltren&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  &emsp;&emsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltren&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline-block">
@@ -17,4 +22,6 @@
 <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="Liguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
-<br\>
+</br>
+</br>
+
