@@ -22,5 +22,9 @@
 &ensp;<img align="center" alt="Liguagem C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 </br>
+<div style="display: inline-block">
+  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="gabriel-trentini" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gabriel-trentini?trk=profile-badge">Gabriel Trentini</a></div>
+              
+</div>
 </br>
 
