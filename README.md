@@ -4,11 +4,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_tren/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/GabrielTren1998)
 
-<div>
-  <a href="https://github.com/gabrieltren">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrieltren&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  &ensp;&ensp;<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltren&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieltren&count_private=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltren&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+  
+
   
 ### Tecnologias que eu uso no meu dia
 
